@@ -14,14 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages
-# - Python
-# - C / C++
-# - JAVA
-# - SystemVerilog
-# - ASSEMBLY x86
-# - SCHEME
-
+## Languages
+ - Python
+ - C / C++
+ - JAVA
+ - SystemVerilog
+ - ASSEMBLY x86
+ - SCHEME
 ## Frameworks
-## Python: Numpy, Pytorch, Tensorflow, Keras
-## SystemVerilog: UVM, UVM-RAL
+### Python
+ - Numpy
+ - Pytorch
+ - Tensorflow
+ - Keras
+### SystemVerilog
+ - UVM
+ - UVM-RAL
