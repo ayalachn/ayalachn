@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - JAVA
  - SystemVerilog
  - ASSEMBLY x86
- - SCHEME
+
 ## Frameworks
 ### Python
  - Numpy
